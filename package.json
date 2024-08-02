@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
@@ -34,5 +35,13 @@
     "eslint-config-next": "14.2.5",
     "postcss": "^8",
     "tailwindcss": "^3.4.1"
+=======
+  "dependencies": {
+    "compromise": "^14.13.0",
+    "natural": "^1.0.1",
+    "prompt-sync": "^4.2.0",
+    "wink-pos-tagger": "^2.2.2",
+    "xml-js": "^1.6.11"
+>>>>>>> 9eaa0ae9c026ff6873189dae59957ce7be74d6e2
   }
 }
